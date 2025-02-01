@@ -34,7 +34,7 @@ a{
 }
 
 
-@media screen and(max-height:700px) {
+@media screen and(max-height:800px) {
     #img-endereco{
         margin-top: 610px;
     } 
