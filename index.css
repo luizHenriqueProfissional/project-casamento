@@ -32,3 +32,14 @@ a{
     border:none;
     margin-top: 600px;
 }
+
+
+@media screen and(max-height:700px) {
+    #img-endereco{
+        margin-top: 610px;
+    } 
+
+    #img-confirma{
+        margin-top: 610px;
+    }
+}
