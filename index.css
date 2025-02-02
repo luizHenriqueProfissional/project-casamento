@@ -1,5 +1,5 @@
 main{
-    height: 500px;
+    height: 800px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ a{
     grid-template-columns:1fr 1fr;
     margin: 395px auto;
     text-align: center;
-    height: 550px;
+    height: 850px;
     max-width: 200px;
     width: 100%;
 }
