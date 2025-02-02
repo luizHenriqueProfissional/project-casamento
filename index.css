@@ -22,7 +22,7 @@ a{
     background-repeat: no-repeat;
     display: grid;
     grid-template-columns:1fr 1fr;
-    margin: 700px auto;
+    margin: 600px auto;
     text-align: center;
     height: 500px;
     max-width: 200px;
